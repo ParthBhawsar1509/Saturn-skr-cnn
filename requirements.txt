@@ -1,0 +1,9 @@
+# Inferred from the methods described in the report — adjust versions to match
+# the environment your notebook was actually run in.
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+tensorflow
+jupyter
